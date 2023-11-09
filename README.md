@@ -1,1 +1,1 @@
-# company-expenses-tracker
+# companyexpenses project
